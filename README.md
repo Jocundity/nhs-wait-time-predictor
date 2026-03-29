@@ -2,7 +2,9 @@
 This is a machine learning and data science project that uses real data from the UK's National Health Service (NHS) regarding Referral to Treatment (RTT) time across different providers and specialties in order to predict wait times.
 
 ## NHS Wait Time Predictor Web App
+![Live Wait Time Predictor Demo](/wait_time_predictor_demo.gif)
 Live Link: (https://nhs-wait-time-predictor.streamlit.app)
+
 
 ## Project Overview:
 Delays in NHS services are a common challenge. This project predicts patient wait times using historical Referral to Treatment (RTT) data, enabling hospitals and patients to better understand expected waiting periods.
