@@ -3,6 +3,7 @@ This is a machine learning and data science project that uses real data from the
 
 ## NHS Wait Time Predictor Web App
 ![Live Wait Time Predictor Demo](/wait_time_predictor_demo.gif)
+
 Live Link: (https://nhs-wait-time-predictor.streamlit.app)
 
 
